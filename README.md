@@ -1,5 +1,7 @@
 # Hi 👋, I'm Esha Kanakapura
 
+![Hacker](https://coolreadme.xyz/api/hacker?user=gaearon&status=MERGED%20v6.12&accent=%23FBBF24)
+
 ### make cool things
 
 - 🔭 I'm currently working on **this READ.me**
