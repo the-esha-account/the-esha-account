@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-open%20to%20yap-396A48?style=for-the-badge&logoColor=white&labelColor=ffffff" />
   <img src="https://img.shields.io/badge/focus-open%20source-BC245E?style=for-the-badge&logoColor=white&labelColor=ffffff" />
-  <img src="https://img.shields.io/badge/mood-🌼%20growing-F8BA12?style=for-the-badge&logoColor=white&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/mood-growing-F8BA12?style=for-the-badge&logoColor=white&labelColor=ffffff" />
 </p>
 
 ## 🌸 about me
