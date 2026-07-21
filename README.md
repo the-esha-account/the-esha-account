@@ -10,7 +10,7 @@
 
 ## 🌸 about me
 
-I'm Esha, a software engineering intern at [Nextech Systems](https://www.nextech.com/), incoming forward deployed engineering intern at [IBM](https://www.ibm.com/us-en), and pursuing a Bachelor's degree in Computer Science and AI at [Northeastern University](https://www.northeastern.edu/). I build across the stack, dabble in machine learning, and love contributing to whatever fills my soul. Always tending a few side projects to fuel my lil garden of code that you see in front of you.
+I'm Esha, a software engineering intern at [Nextech Systems](https://www.nextech.com/), incoming forward deployed engineering co-op at [IBM](https://www.ibm.com/us-en), and pursuing a Bachelor's degree in Computer Science and AI at [Northeastern University](https://www.northeastern.edu/). I build across the stack, dabble in machine learning, and love contributing to whatever fills my soul. Always tending a few side projects to fuel my lil garden of code that you see in front of you.
 
 ## 🌼 tech i adore
 
