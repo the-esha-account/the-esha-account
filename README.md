@@ -58,7 +58,7 @@ I'm Esha, a software engineering intern at [Nextech Systems](https://www.nextech
   <img src="https://raw.githubusercontent.com/the-esha-account/github-stats-transparent/output/generated/languages.svg" alt="language stats" width="49%" />
 </p>
 
-## 🌺 where i'll be
+## 🌺 where you can find me
 
 <p align="center">
   <a href="https://github.com/the-esha-account"><img src="https://img.shields.io/badge/GitHub-396A48?style=for-the-badge&logo=github&logoColor=white" /></a>
