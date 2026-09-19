@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20yap-396A48?style=for-the-badge&logoColor=white&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/status-actively%20building-396A48?style=for-the-badge&logoColor=white&labelColor=ffffff" />
   <img src="https://img.shields.io/badge/focus-open%20source-BC245E?style=for-the-badge&logoColor=white&labelColor=ffffff" />
-  <img src="https://img.shields.io/badge/mood-growing-F8BA12?style=for-the-badge&logoColor=white&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/mood-learning-F8BA12?style=for-the-badge&logoColor=white&labelColor=ffffff" />
 </p>
 
 ## 🌸 about me
 
-I'm Esha, a software engineering intern at [Nextech Systems](https://www.nextech.com/), incoming forward deployed engineering co-op at [IBM](https://www.ibm.com/us-en), and pursuing a Bachelor's degree in Computer Science and AI at [Northeastern University](https://www.northeastern.edu/). I build across the stack, dabble in AI, and love contributing to whatever fills my soul. Always tending a few side projects to fuel my lil garden of code that you see in front of you.
+I'm Esha, a Software Developer Co-op at [IBM](https://www.ibm.com/us-en), a previous SWE intern at [Nextech Systems](https://www.nextech.com/), and pursuing a Bachelor's degree in Computer Science and AI at [Northeastern University](https://www.northeastern.edu/). I build across the stack, explore AI/ML, and love contributing to tech. Always working on a few side projects alongside my coursework and co-op.
 
 ## 🌼 tech i adore
 
@@ -20,7 +20,7 @@ I'm Esha, a software engineering intern at [Nextech Systems](https://www.nextech
 ![TypeScript](https://img.shields.io/badge/TypeScript-396A48?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-CF4D26?style=for-the-badge&logo=react&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-396A48?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-CF4D26?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-CF4D26?style=for-the-badge&logoColor=white)
 
 ## 🌷 tech i know
 
