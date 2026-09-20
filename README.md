@@ -51,12 +51,6 @@ I'm Esha, a Software Developer Co-op at [IBM](https://www.ibm.com/us-en), a prev
 ![MySQL](https://img.shields.io/badge/MySQL-BC245E?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-CF4D26?style=for-the-badge&logo=unity&logoColor=white)
 
-## 🌻 stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/the-esha-account/github-stats-transparent/output/generated/overview.svg" alt="overview stats" width="60%" />
-</p>
-
 ## 🌺 where you can find me
 
 <p align="center">
