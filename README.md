@@ -54,8 +54,8 @@ I'm Esha, a Software Developer Co-op at [IBM](https://www.ibm.com/us-en), a prev
 ## 🌻 stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/the-esha-account/new-github-stats-transparent/output/generated/overview.svg" alt="overview stats" width="49%" />
-  <img src="https://raw.githubusercontent.com/the-esha-account/new-github-stats-transparent/output/generated/languages.svg" alt="language stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/the-esha-account/github-stats-transparent/output/generated/overview.svg" alt="overview stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/the-esha-account/github-stats-transparent/output/generated/languages.svg" alt="language stats" width="49%" />
 </p>
 
 ## 🌺 where you can find me
